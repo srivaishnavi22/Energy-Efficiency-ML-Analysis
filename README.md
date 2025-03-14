@@ -37,12 +37,6 @@ We applied **unsupervised learning** to explore patterns in the dataset:
 - DBSCAN identified outliers.
 - Agglomerative Clustering captured hierarchical structures.
 
-### 📷 **Screenshots from Part A**
-- **Cluster Assignments**
-- **Silhouette Scores for Preprocessing Techniques**
-- **DBSCAN & Agglomerative Clustering Visualizations with PCA**
-- **Cluster Insights & Interpretation**
-
 ---
 
 ## 🔥 Part B: Regression Modeling
@@ -64,11 +58,6 @@ In **supervised learning**, we predicted energy efficiency using **various regre
 - **SGD Regressor** exhibited extreme instability with **IQR of 2.01 * 10^29**.
 - **Random Forest** performed well with moderate variance and strong generalization.
 
-### 📷 **Screenshots from Part B**
-- **Hyperparameter Tuning Results**
-- **Performance of Different Models**
-- **Generalization vs. Memorization Trade-Offs**
-- **MSE Histograms & Variability Analysis**
 
 ---
 
